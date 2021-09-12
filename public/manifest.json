@@ -1,0 +1,8 @@
+{
+	"short_name": "regex.rest",
+	"name": "regex.rest",
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
